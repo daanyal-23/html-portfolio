@@ -1,0 +1,32 @@
+<!-- 
+Online HTML, CSS and JavaScript editor to run code online.
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+
+<body>
+  <h1>
+    Daanyal's Portfolio
+  </h1>
+  <h2>
+    I am becoming a web-developer
+  </h2>
+  <hr>
+  <h1> <a href="./Movie Ranking.html ">Movie Ranking Project</a></h1>
+    <img src="./assets/images/My Movie ranking.png " alt="Film Rating" width="350" height="400">
+      <h1><a href="./Birthday Invite.html">Birthday Invite Project</a></h1>
+      <img src="./assets/images/My Birthday invite.png " alt="Birthday Invite Project">
+     <hr>
+     <a href="./public/about.html" alt="About me">About me</a>
+     <a href="./public/contact.html" alt="Contact me">Contact me</a>
+  <script src="script.js"></script>
+</body>
+
+</html>
